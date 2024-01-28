@@ -874,3 +874,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.28-16.14.21:793][  0]LogAssetRegistry: Asset discovery search completed in 6.2192 seconds
 [2024.01.28-16.14.21:800][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2024.01.28-16.14.21:802][  0]LogContentStreaming: Texture pool size now 400 MB
+[2024.01.28-16.16.51:506][785]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2024.01.28-16.16.51:517][785]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2024.01.28-16.16.51:518][785]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.28-16.16.53:780][ 57]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> 1
+[2024.01.28-16.16.53:780][ 57]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2024.01.28-16.16.54:845][184]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.28-16.16.54:871][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Content/1.uasset" SILENT=true
+[2024.01.28-16.16.54:872][184]LogSavePackage: Moving '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Saved/11503E6F04739988A4254BA83BB4CC806.tmp' to '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Content/1.uasset'
+[2024.01.28-16.16.54:884][184]AssetCheck: New page: Asset Save: 1
+[2024.01.28-16.16.54:884][184]LogContentValidation: Display: Validating UserDefinedEnum /Game/1.1
