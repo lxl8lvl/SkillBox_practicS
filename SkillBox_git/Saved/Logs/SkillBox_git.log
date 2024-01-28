@@ -916,3 +916,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.28-16.17.54:298][ 54]LogSavePackage: Moving '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Saved/4A80879CE472787E9611DED9AE2D3AE2C.tmp' to '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Content/4.uasset'
 [2024.01.28-16.17.54:305][ 54]AssetCheck: New page: Asset Save: 4
 [2024.01.28-16.17.54:305][ 54]LogContentValidation: Display: Validating UserDefinedEnum /Game/4.4
+[2024.01.28-16.19.51:371][947]LogSlate: Window 'Save Level As' being destroyed
+[2024.01.28-16.19.53:635][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.28-16.19.57:463][209]LogSlate: Window 'Save Content' being destroyed
+[2024.01.28-16.19.58:297][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_2" FILE="../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Content/1_2.uasset" SILENT=true
+[2024.01.28-16.19.58:297][305]LogSavePackage: Moving '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Saved/1_23EC2AB8B4199E05044D8B3BB00AD772B.tmp' to '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Content/1_2.uasset'
+[2024.01.28-16.19.58:305][305]AssetCheck: New page: Asset Save: 1_2
+[2024.01.28-16.19.58:305][305]LogContentValidation: Display: Validating UserDefinedEnum /Game/1_2.1_2
