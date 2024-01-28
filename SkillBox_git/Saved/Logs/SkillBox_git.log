@@ -884,3 +884,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.28-16.16.54:872][184]LogSavePackage: Moving '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Saved/11503E6F04739988A4254BA83BB4CC806.tmp' to '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Content/1.uasset'
 [2024.01.28-16.16.54:884][184]AssetCheck: New page: Asset Save: 1
 [2024.01.28-16.16.54:884][184]LogContentValidation: Display: Validating UserDefinedEnum /Game/1.1
+[2024.01.28-16.17.13:601][356]LogContentBrowser: Attempting asset rename: 1_2 -> 2
+[2024.01.28-16.17.13:666][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2" FILE="../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Content/2.uasset" SILENT=true
+[2024.01.28-16.17.13:667][356]LogSavePackage: Moving '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Saved/25AE24AF545CC777171C0DE95323202CB.tmp' to '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Content/2.uasset'
+[2024.01.28-16.17.13:744][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.28-16.17.13:765][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.28-16.17.13:774][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.28-16.17.13:801][356]AssetCheck: New page: Asset Save: 2
+[2024.01.28-16.17.13:801][356]LogContentValidation: Display: Validating UserDefinedEnum /Game/2.2
+[2024.01.28-16.17.16:149][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2" FILE="../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Content/2.uasset" SILENT=true
+[2024.01.28-16.17.16:150][636]LogSavePackage: Moving '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Saved/2131900D243C71F4303376B8A66BBA2E1.tmp' to '../../../../../ProjectS/SkillBox_practicS/SkillBox_git/Content/2.uasset'
+[2024.01.28-16.17.16:157][636]AssetCheck: New page: Asset Save: 2
+[2024.01.28-16.17.16:157][636]LogContentValidation: Display: Validating UserDefinedEnum /Game/2.2
